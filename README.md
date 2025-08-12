@@ -51,7 +51,7 @@ Under Source, select main branch and /root folder, then Save.
 
 Your game will be live at:
 
-https://<your-username>.github.io/Stone_Paper_Scissors/
+https://sikandar-07-code.github.io/Stone_Paper_Scissors/
 
 
 📜 License
